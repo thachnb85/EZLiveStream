@@ -1,7 +1,12 @@
 # EZLiveStream
 Custom web server for live streaming from embedded devices with USB webcam.
 
-# Setup
+# Hardware:
+- You need Odroid or Raspberry Pi any version, or any development board which support Linux/Python.
+- Preinstall Unbutu is the best, ready to download any missing python pkg.
+- An USB camera, any old-webcam can work, I am using HD one from Odroid.
+
+# Software:
 
 ## Download Code:
 - Download code above, put it to your home folder, for example, /home/user/ipcam
